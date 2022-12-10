@@ -9,3 +9,9 @@ Persona enjoyer
 * Discord: Hegohol (@hegohol4)
 * GitHub: [hegohol4](https://github.com/hegohol4)
 
+# About Myself: 
+Persona enjoyer
+
+## Skills: 
+* HTML
+* Procrastination
