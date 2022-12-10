@@ -1,30 +1,38 @@
 # [rsschool-cv]()
 
 # Ulyana Kiyko
-Persona enjoyer
 
 ## Contact information:
 
-* Phone: +375 44 8439334
-* Discord: Hegohol (@hegohol4)
-* GitHub: [hegohol4](https://github.com/hegohol4)
+* __Phone__ (fake): +375 44 843-93-34 
+* __Discord__: Hegohol (@hegohol4)
+* __GitHub__: [hegohol4](https://github.com/hegohol4)
 
+******************
 ## About Myself: 
-Persona enjoyer
+
+_Persona (series) enjoyer_
+
+**************
 
 ## Skills: 
-* HTML
-* Procrastination
+* __HTML__
+* __Procrastination__
+
+***************
 
 ## Code example (python): 
 ```
 print("Hello, World!")
 ```
+*****************
 
 ## Courses: 
-NONE
+__NONE__
+
+********************
 
 ## Language: 
-* Russian - Native
-* English - Intermediate/Upper-intermediate (according to the online test at EFset [www.efset.org](www.efset.org))
+* __Russian__ - Native
+* __English__ - Intermediate/Upper-intermediate (according to the online test at EFset [www.efset.org](www.efset.org))
 ![Alt-Test](/fvBXqnoR.jpg "Test result")
